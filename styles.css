@@ -3,7 +3,7 @@
 #container{
 	width:300px;
 	background-color:rgb(173, 216, 230);
-	border: 15px solid #5B49F7;
+	border: 15px solid rgb(0, 0, 255);
 	padding:50px;
 	margin:20px;
 }
